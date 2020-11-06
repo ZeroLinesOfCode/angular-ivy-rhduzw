@@ -407,7 +407,7 @@
   /**
    * The font family
    */
-  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  // "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
   /**
    * The font weight
    */
@@ -415,7 +415,7 @@
   /**
    * The font size
    */
-  "editor.fontSize": 14
+  // "editor.fontSize": 14
   /**
    * The line height
    */
